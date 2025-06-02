@@ -1,0 +1,24 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "font_size": 72,
+  "font_path": "Arial.ttf",
+  "text_color": [
+    255,
+    255,
+    255
+  ],
+  "bg_overlay_color": [
+    0,
+    0,
+    0,
+    150
+  ],
+  "margin": 100,
+  "padding": 20,
+  "words_per_minute": 140,
+  "min_duration": 2.0,
+  "tts_language": "en",
+  "tts_slow": false
+}
