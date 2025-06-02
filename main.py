@@ -243,5 +243,5 @@ if __name__ == "__main__":
         create_text_to_video(script, bg_path, "tutorial.mp4")
     except Exception as e:
         print(f"Failed to create video: {e}")
-        print("Trying with simple script...")
+        print("Trying with simple script ...")
         create_text_to_video(simple_script, bg_path, "tutorial_simple.mp4")
